@@ -35,7 +35,7 @@ Définition:
 > Le design pattern Abstract Factory (fabrique abstraite) permet de fournir une interface unique pour instancier des objets d'une même famille sans avoir à connaître les classes à instancier.
 
 
-Le but de ce patron de conception est d'isoler la création des objets de leur utilisation. L'intérêt est ainsi d'ajouter de nouveaux objets dérivés sans modifier le code qui utilise l'objet de base.
+Le but de ce patron de conception est d'isoler la création des objets de leur utilisation. L'intérêt est ainsi de pouvoir ajouter de nouveaux objets dérivés sans modifier le code qui utilise l'objet de base.
 
 L'utilisation d'une fabrique abstraite permet de facilement remplacer une fabrique par une autre selon les besoins.
 
