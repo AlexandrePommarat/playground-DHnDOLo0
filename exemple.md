@@ -34,7 +34,7 @@ public class businessCarFactory implements carFactory{
 
 # Etape 3
 
-Bien entendu si l'on veut créer notre voiture, il nous faut une classe voiture, parceque si on sait pas ce que c'est ça va être compliqué d'utiliser l'usine. Mais nous on a une usine qui fabrique des voiture business, nous définissons donc la classe fille businessCar.
+Bien entendu si l'on veut créer notre voiture, il nous faut une classe voiture, parceque si on sait pas ce que c'est ça va être compliqué d'utiliser l'usine. Mais nous on a une usine qui fabrique des voiture business, nous définissons donc la classe  businessCar.
 
 ![Image Etape 3](https://img4.hostingpics.net/pics/5094513802.png)
 
